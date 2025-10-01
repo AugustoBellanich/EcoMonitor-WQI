@@ -1,0 +1,21 @@
+{
+  "title": "EcoMonitor WQI: cuaderno interactivo para evaluar calidad recreativa del agua",
+  "upload_type": "software",
+  "description": "Cuaderno de Google Colab que implementa un índice híbrido (físico‑químico ponderado + sanitario con criterio de veto) para evaluar calidad recreativa. Incluye flujos de carga, control de calidad, reportes y mapas.",
+  "creators": [
+    {
+      "name": "Bellanich, Augusto"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit-license",
+  "keywords": [
+    "water quality",
+    "recreational water",
+    "WQI",
+    "Colab",
+    "Catamarca",
+    "EcoMonitor"
+  ],
+  "language": "spa"
+}

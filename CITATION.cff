@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si usás este software, por favor citá esta versión."
+title: "EcoMonitor WQI: cuaderno interactivo para evaluar calidad recreativa del agua"
+version: "1.0.0"
+date-released: "2025-10-01"
+authors:
+  - family-names: Bellanich
+    given-names: Augusto
+    orcid: "0000-0000-0000-0000"
+repository-code: "https://github.com/<usuario>/<repo>"
+doi: "10.5281/zenodo.xxxxx"
+license: "MIT"
