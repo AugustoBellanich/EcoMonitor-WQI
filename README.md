@@ -1,10 +1,8 @@
 # EcoMonitor WQI
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<usuario>/<repo>/blob/main/notebooks/EcoMonitor_WQI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AugustoBellanich/EcoMonitor-WQI/blob/main/notebooks/EcoMonitor_WQI.ipynb)
 
 Cuaderno interactivo para evaluar la **calidad recreativa del agua** mediante un **índice híbrido** (subíndice físico‑químico ponderado + subíndice sanitario con **criterio de veto**), aplicado inicialmente al **río del Valle (Catamarca, Argentina)**.
-
-> ⚠️ **Recordatorio**: actualizá `<usuario>/<repo>` en el botón de Colab cuando subas este repo a GitHub.
 
 ## Estructura
 ```
