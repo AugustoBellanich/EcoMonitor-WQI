@@ -9,9 +9,9 @@ Cuaderno interactivo para evaluar la **calidad recreativa del agua** mediante un
 EcoMonitor-WQI/
 ├─ notebooks/
 │  └─ EcoMonitor_WQI.ipynb
-├─ templates/            # plantillas de umbrales / configuración (opcional)
+├─ templates/            # plantillas de umbrales / configuración 
 ├─ data/
-│  └─ sample/            # datos de ejemplo/anónimos (opcional)
+│  └─ sample/            # datos de ejemplo
 ├─ assets/               # logos e imágenes opcionales
 ├─ CITATION.cff
 ├─ LICENSE
@@ -34,12 +34,11 @@ jupyter notebook notebooks/EcoMonitor_WQI.ipynb
 ```
 
 ## Datos
-- Este repo **no** incluye datos reales por defecto. Podés colocar **datos anónimos o sintéticos** en `data/sample/` para demostrar la ejecución.
-- Evitá subir información sensible. Para archivos grandes, usá Git LFS.
+- Este repo por el momento **no** incluye datos reales por defecto. 
 
 ## Licencia
 - **Código**: MIT (ver `LICENSE`).
-- **Textos y figuras** del repositorio: CC‑BY‑4.0 (añadílo si corresponde).
+- **Textos y figuras** del repositorio: CC‑BY‑4.0.
 
 ## Cita
 Ver `CITATION.cff` y el DOI de **Zenodo** una vez creada la release.
